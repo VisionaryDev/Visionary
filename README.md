@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Discord Bots**
 
-- 🌱 I’m currently learning **The Bachelor of Science in Information Technology (BSIT)**
+- 🌱 I’m currently learning **C++, Visuan Basic, C#**
 
 - 📫 How to reach me **visionarydev1@gmail.com**
 
